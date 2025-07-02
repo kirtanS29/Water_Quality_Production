@@ -1,17 +1,6 @@
 # Water_Quality_Production
 AICTE Eduskill internship
-Sure! Here's your updated **`README.md`** that reflects:
 
-* ✅ Model training and EDA (from your `.ipynb`)
-* ❌ Not yet deployed
-* ❌ `.pkl` model not uploaded due to large size
-* ✅ Streamlit UI running **locally**
-* ✅ Voting Regressor used
-* ✅ Outlier removal and visualization done
-
----
-
-```markdown
 # 💧 Water Quality Pollutant Predictor
 
 This project analyzes and predicts water pollution parameters using machine learning and Streamlit. It estimates key water pollutant levels like NH₄, BOD₅, NO₃, etc., and evaluates water safety against standard environmental thresholds.
