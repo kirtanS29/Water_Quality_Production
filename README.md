@@ -113,5 +113,8 @@ This project is open-source under the [MIT License](LICENSE).
 * Streamlit and scikit-learn for app and ML tools
 
 ```
+# The google drivelink for pollution_model.pkl
+
+*https://drive.google.com/file/d/1kKf21XG2QohQ5h6hI-ST7SCM6XP5vk0u/view?usp=drive_link
 
 
